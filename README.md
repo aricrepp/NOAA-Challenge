@@ -1,4 +1,4 @@
-# TSPI Challenge - Aric Repp
+# NOAA Challenge - Aric Repp
 
 ## Project Description
 
